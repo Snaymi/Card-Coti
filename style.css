@@ -1,7 +1,8 @@
 body{
   width: 100vw;
   height: 100vh;
-  background: #053362;
+  background: #003366;
+;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -17,7 +18,7 @@ body{
   flex-direction: column;
   padding: 35px;
 }
-.tittle{
+h1{
   font-family: 'Arial', sans-serif;
   font-size: 32px;
   font-weight: bold;
@@ -31,13 +32,11 @@ body{
     object-fit: cover;
     margin: 20px 0px 15px 0px;
 }
-.description{
-  font-size: 16px;
-  font-weight: 400;
+p{
+
   color:  #666666;
-  margin: 20px 0px 20px 0px;
-  height: 79px;
-  width: 720px;
+  margin: 20px  0 ;
+
 }
 .link{
 color: #003366;
