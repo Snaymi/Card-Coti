@@ -10,12 +10,9 @@ body{
   overflow: hidden;
 }
 .card{
-  height: 320px;
-  width: 700px;
-  background: white;
+  width: 800px;
+  background: #fff;
   border-radius:10px;
-  display: flex;
-  flex-direction: column;
   padding: 35px;
 }
 h1{
@@ -33,10 +30,9 @@ h1{
     margin: 20px 0px 15px 0px;
 }
 p{
-
   color:  #666666;
   margin: 20px  0 ;
-
+  line-height: 1;
 }
 .link{
 color: #003366;
